@@ -6,4 +6,4 @@ usage
 
 parameter passed must be of type string
 > const address = "0x0000000000000000000000000000000"
->isEther(address) //return false
+> isEther(address) //return false
